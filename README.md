@@ -1,3 +1,20 @@
+Step Laravel
+1. Clone Project Menggunakan SSH / HTTPS
+2. Buka CLI "composer install" -> untuk vendor
+3. Copy and Paste .env.example to .env
+4. Jika Mau Menggunakan DB Migration silakan Buka CLI "php artisan migrate"
+5. Untuk Database Langsung Sudah Disediakan di Folder "DB Nya"
+
+.env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=apotekk24
+DB_USERNAME=root
+DB_PASSWORD=
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
