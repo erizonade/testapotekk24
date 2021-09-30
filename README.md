@@ -5,6 +5,14 @@ Step Laravel
 4. Jika Mau Menggunakan DB Migration silakan Buka CLI "php artisan migrate"
 5. Untuk Database Langsung Sudah Disediakan di Folder "DB Nya"
 
+Data Login 
+1. Admin
+   - admin@gmail.com
+   - 12345
+3. Member
+   - member@gmail.com
+   - 12345
+
 .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
